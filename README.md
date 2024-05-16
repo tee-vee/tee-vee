@@ -3,8 +3,8 @@
 I'm just a guy looking to build stuff, obsessed with improving my craft and fascinated with the hidden technology that runs everyday life!
 
 
-- 💬 Ask me about computer systems, UNIX, email (IMAP, SMTP, Exchange, Office 365), GIS ...
-- ⚡ Fun fact: I speak (reasonable) IMAP and SMTP.
+- 💬 Ask me about computer systems, UNIX, email (IMAP, SMTP, Exchange, Office 365) and Geographic Information Systems (GIS) ...
+- ⚡ Fun fact: I speak (reasonable) IMAP and SMTP. And an aspiring private GA pilot.
 
 
 
