@@ -9,7 +9,7 @@ and 🌎 [Geographic Information Systems (GIS)](https://www.esri.com/en-us/home)
 - 🤨 [This](https://www.esri.com/en-us/arcgis/products/arcgis-geoevent-server) often distracts me but makes my head hurt.
 - ⚡ Fun fact: I speak (reasonable) IMAP [(v4rev1)](https://datatracker.ietf.org/doc/rfc3501/) and [SMTP](https://datatracker.ietf.org/doc/html/rfc5321).  
 ✈️ And I'm an aspiring private GA pilot.
-- 👨🏼‍💻 I built the BLE iBeacon toolbox: a set of python and bash scripts to make manage, debug and optimize any iBeacon deployment easier and through an empirical and CI/CD approach.
+- 👨🏼‍💻 I built the BLE iBeacon toolbox: is a set of python and bash scripts to make manage, debug and optimize any iBeacon deployment easier and through an empirical, CI/CD approach.
 
 
 
